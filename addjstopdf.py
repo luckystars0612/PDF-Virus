@@ -1,4 +1,4 @@
-from PyPDF2 import PdfFileWriter, PdfFileReader
+from PyPDF4 import PdfFileWriter, PdfFileReader
 
 import optparse
 
